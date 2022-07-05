@@ -2,8 +2,6 @@
 #include <stdlib.h>
 
 int* total_number_of_books;
-
-
 int** total_number_of_pages;
 
 #include <stdlib.h>
@@ -40,4 +38,6 @@ int main()
                 book++;
             *book = pages;
 
-        } else if (type_of_query == 2) {
+        } 
+        else if (type_of_query == 2)
+        {
