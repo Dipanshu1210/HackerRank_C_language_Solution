@@ -5,7 +5,7 @@
 //Complete the following function.
 
 int find_nth_term(int n, int a, int b, int c) {
-  //Write your code here.
+ 
   int i,arr[100];
   arr[1]=a;
   arr[2]=b;
