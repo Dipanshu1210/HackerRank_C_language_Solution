@@ -11,6 +11,8 @@ int* total_number_of_books;
 int** total_number_of_pages;
 int main()
 {
+
+
     int total_number_of_shelves;
     scanf("%d", &total_number_of_shelves);
     total_number_of_books = calloc(total_number_of_shelves, sizeof(int));
