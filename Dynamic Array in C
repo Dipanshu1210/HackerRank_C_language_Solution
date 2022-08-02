@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int* total_number_of_books;
-int** total_number_of_pages;
 
 #include <stdlib.h>
 
